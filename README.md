@@ -16,8 +16,9 @@ COMP4702/
 ```
 
 ## Dependencies
-The required libraries are listed in requirements.txt. Some commonly used libraries include:
+The required libraries are listed in [requirements.txt](https://github.com/keys-i/COMP4702/blob/python/requirements.txt). Some commonly used libraries include:
 - NumPy
 - Matplotlib
 - Pandas
+- Seaborn
 - Scikit-learn
