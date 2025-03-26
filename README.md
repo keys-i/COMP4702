@@ -6,11 +6,18 @@ This repository contains the assignments for COMP4702 - Machine Learning. The as
 ```
 COMP4702/
 ├── datasets/
-│   └── W2/
-│       ├── w3classif.csv
-│       └── w3regr.csv
+│   ├── W2/
+│   │   ├── w3classif.csv
+│   │   └── w3regr.csv
+│   ├── W3/
+│   │   └── swissroll.txt
+│   └── W4/
+│       └── pokemonregr.csv
 ├── src/
-│   └── W2.ipynb
+│   ├── W2.ipynb
+│   ├── W3.ipynb
+│   ├── W4.ipynb
+│   └── W5.ipynb
 ├── README.md
 └── LICENSE
 ```
