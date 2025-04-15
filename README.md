@@ -11,13 +11,18 @@ COMP4702/
 │   │   └── w3regr.csv
 │   ├── W3/
 │   │   └── swissroll.txt
-│   └── W4/
-│       └── pokemonregr.csv
+│   ├─── W4/
+│   │   └── pokemonregr.csv
+│   └── W6/
+│       ├── ann-train.data
+│       └── ann-test.data
 ├── src/
 │   ├── W2.ipynb
 │   ├── W3.ipynb
 │   ├── W4.ipynb
-│   └── W5.ipynb
+│   ├── W5.ipynb
+│   ├── W6.ipynb
+│   └── W7.ipynb
 ├── README.md
 └── LICENSE
 ```
