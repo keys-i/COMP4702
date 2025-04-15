@@ -29,3 +29,9 @@ The required libraries are listed in [requirements.txt](https://github.com/keys-
 - Pandas
 - Seaborn
 - Scikit-learn
+
+<!-- Personal Use -->
+## Commit Style
+```
+W`number`: {Step name} - {File status}
+```
